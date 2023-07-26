@@ -1,0 +1,19 @@
+.heading .h2 {
+    padding: 10px 0;
+}
+
+.form-outline textarea {
+    background-color: rgb(214, 209, 209);
+    border-radius: 5px;
+    color: black !important;
+}
+
+.d-flex {
+    justify-content: end;
+}
+
+.d-flex button {
+    border: 1px solid transparent !important;
+    border-radius: 4px !important;
+    color:white;
+}
